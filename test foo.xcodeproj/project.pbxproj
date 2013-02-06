@@ -39,20 +39,20 @@
 		8512AE2C13AC38A000CFD696 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		8512AE2E13AC38A100CFD696 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8512AE3013AC38A100CFD696 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		8512AE3413AC38A100CFD696 /* test foo-Info.plist */ = {isa = PBXFileReference; path = "test foo-Info.plist"; sourceTree = "<group>"; };
+		8512AE3413AC38A100CFD696 /* test foo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "test foo-Info.plist"; sourceTree = "<group>"; };
 		8512AE3613AC38A100CFD696 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		8512AE3813AC38A100CFD696 /* test foo-Prefix.pch */ = {isa = PBXFileReference; path = "test foo-Prefix.pch"; sourceTree = "<group>"; };
+		8512AE3813AC38A100CFD696 /* test foo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "test foo-Prefix.pch"; sourceTree = "<group>"; };
 		8512AE3913AC38A100CFD696 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		8512AE3B13AC38A100CFD696 /* test_fooAppDelegate.h */ = {isa = PBXFileReference; path = test_fooAppDelegate.h; sourceTree = "<group>"; };
+		8512AE3B13AC38A100CFD696 /* test_fooAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test_fooAppDelegate.h; sourceTree = "<group>"; };
 		8512AE3C13AC38A100CFD696 /* test_fooAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test_fooAppDelegate.m; sourceTree = "<group>"; };
 		8512AE3F13AC38A100CFD696 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		8512AE4113AC38A100CFD696 /* RootViewController.h */ = {isa = PBXFileReference; path = RootViewController.h; sourceTree = "<group>"; };
+		8512AE4113AC38A100CFD696 /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		8512AE4213AC38A100CFD696 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		8512AE4513AC38A100CFD696 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
 		8512AE4C13AC38A100CFD696 /* test fooTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "test fooTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8512AE5413AC38A100CFD696 /* test fooTests-Info.plist */ = {isa = PBXFileReference; path = "test fooTests-Info.plist"; sourceTree = "<group>"; };
+		8512AE5413AC38A100CFD696 /* test fooTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "test fooTests-Info.plist"; sourceTree = "<group>"; };
 		8512AE5613AC38A100CFD696 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		8512AE5813AC38A100CFD696 /* test fooTests-Prefix.pch */ = {isa = PBXFileReference; path = "test fooTests-Prefix.pch"; sourceTree = "<group>"; };
+		8512AE5813AC38A100CFD696 /* test fooTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "test fooTests-Prefix.pch"; sourceTree = "<group>"; };
 		8512AE5913AC38A100CFD696 /* test_fooTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test_fooTests.h; sourceTree = "<group>"; };
 		8512AE5B13AC38A100CFD696 /* test_fooTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test_fooTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
